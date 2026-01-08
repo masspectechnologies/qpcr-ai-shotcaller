@@ -1,0 +1,12 @@
+{
+ "cells": [],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+streamlit
+torch
+pandas
+matplotlib
+numpy
+scikit-learn
